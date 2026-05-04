@@ -1,0 +1,9 @@
+{
+  "name": "MoveOS PPRO",
+  "description": "Agentic Digital Twin for Military Logistics. Re-architecting PCS moves through 4D spatial intelligence, VLA concierge agents, and circular asset DNA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
